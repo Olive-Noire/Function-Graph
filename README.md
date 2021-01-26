@@ -15,8 +15,7 @@ now you no longer need a calculator in math class but rather bring your 13 Kilo 
 2 optimisations (1.0.0) : 
 
 -ordonne (verticale) limits (for square function)
--lat point (for decimal number not repassing in point)
+-last point (for decimal number not repassing in pixel)
 
 compile with gcc (using command in end file)
-
 g++ -m32 ./Sources/*cpp -o bin/Courbe -s -std=c++17 -I include -L lib/ -lSDL2main -lSDL2 -mwindows
