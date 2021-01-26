@@ -18,3 +18,5 @@ now you no longer need a calculator in math class but rather bring your 13 Kilo 
 -lat point (for decimal number not repassing in point)
 
 compile with gcc (using command in end file)
+
+g++ -m32 ./Sources/*cpp -o bin/Courbe -s -std=c++17 -I include -L lib/ -lSDL2main -lSDL2 -mwindows
