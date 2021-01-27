@@ -1,6 +1,13 @@
 # Function-Graph
 for make a graphic of function
 
+my challenge was to keep the code very short!
+It is less than 60 lines (without formatting).
+with formatting can be at 30-40.
+
+and with a compression on 1 single line and that we remove the spaces and the comments (and many other elements not essential) and by replacing the function double f () directly by the espression we are at 1000 characters.
+
+
 user manual (sorry for my bad english) :
 -to change the window size (the script is made to adapt don't worry 😉)
 go to line ~ 8 and change the defaults (500p / 500p)
