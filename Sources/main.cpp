@@ -16,6 +16,7 @@ int main(int argc,char* argv[]) {
     SDL_SetRenderDrawColor(renderer,255,255,255,255);
     SDL_RenderFillRect(renderer,&LineH);
     SDL_RenderFillRect(renderer,&LineV);
+    SDL_RenderPresent(renderer);
 
     int last[2] = {-1,height-1};
     SDL_Event event;
