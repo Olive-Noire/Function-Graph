@@ -16,7 +16,7 @@ go to line ~ 8 and change the defaults (500p / 500p)
 
 -change the expression of the function go to the end (line ~ 57) in the function f (double x) to modify the value return
 
-now you no longer need a calculator in math class but rather bring your 13 Kilo tower with your RTX 3090 to simulate a curve 😁😉
+now you no longer need a calculator in math class but rather bring your 13 Kilo tower with your RTX 3090 to simulate a simple curve 😁😉
 
 
 2 optimisations (1.0.0) : 
