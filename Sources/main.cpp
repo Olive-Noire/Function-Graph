@@ -18,7 +18,7 @@ int main(int argc,char* argv[]) {
     SDL_RenderFillRect(renderer,&LineV);
     SDL_RenderPresent(renderer);
 
-    int last[2] = {-1,height-1};
+    int last[2] = {0,0};
     SDL_Event event;
 
     for (double x = 0;x < widht;x+=0.1) {
